@@ -12,4 +12,4 @@ If you lose, press backspace to return to the start screen, and then press enter
     make
 # Run
     make med
-
+![Demo](https://media.giphy.com/media/iddrhNaOUVV6cDqBf5/giphy.gif)
